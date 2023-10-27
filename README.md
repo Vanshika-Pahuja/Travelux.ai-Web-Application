@@ -6,6 +6,9 @@ Backend: Express.js, Node.js, MongoDB, Next.js
 Frontend: HTML, CSS, JAVASCRIPT, REACT
 Artificial Intelligence, Machine Learning, AI-powered Virtual Assistant chatbot
 
+**Deployment Link:**
+https://trip-planner-psi.vercel.app/
+
 **Team Members:**
 Vanshika , Tripatjot , Yashika , Akash Mishra
 
