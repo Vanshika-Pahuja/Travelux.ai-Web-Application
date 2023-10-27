@@ -3,7 +3,9 @@ It is the travel planning web application built using React could serve as a com
 
 **Technologies used:**
 Backend: Express.js, Node.js, MongoDB, Next.js
+
 Frontend: HTML, CSS, JAVASCRIPT, REACT
+
 Artificial Intelligence, Machine Learning, AI-powered Virtual Assistant chatbot
 
 **Deployment Link:**
